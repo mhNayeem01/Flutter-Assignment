@@ -1,3 +1,3 @@
-**In this folder there are all solve of track sheet is available.**
+**In this Repository, all the solutions of tracksheet problem are available.**
 
-All the code are in lib/ folder
+All the code is in lib/ folder
